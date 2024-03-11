@@ -1,0 +1,43 @@
+_repo: Robert-Merry-s-museum-Volumes-III-IV-1842_73026
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Parley, Peter
+    - Goodrich, Samuel Griswold
+    - Goodrich, S. G. (Samuel Griswold)
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73026'
+language: en
+pgterms:marc905: 20100728134822goodrich
+pgterms:marc906: '1842'
+pgterms:marc907: US
+production_note: Carol Brown, Linda Cantoni, Jude Eylander, Katherine Ward and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bBradbury & Soden, $c1842, copyright 1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s literature -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: Robert Merry's museum, Volumes III-IV  (1842)
+url: http://www.gutenberg.org/ebooks/73026
